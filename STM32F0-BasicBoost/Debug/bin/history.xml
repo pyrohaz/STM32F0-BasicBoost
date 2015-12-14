@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-BasicBoost.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-BasicBoost -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-BasicBoost/arm-gcc-link.ld -g">
+      <target file="STM32F0-BasicBoost.elf" lastModified="1519e424e02">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="1519e42400b"/>
+         <source file="..\obj\main.o" lastModified="1519e42420c"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="1519e4242da"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="1519e4244a1"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="1519e42470c"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="1519e42498f"/>
+      </target>
+   </processor>
+</history>
